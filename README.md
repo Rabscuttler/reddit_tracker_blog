@@ -2,7 +2,7 @@
 
 Pull data from Reddit API and serve analysis in a Google Chrome Extension
 
-Notebook is in `notebook/main.ipynb`
+Notebook is in `notebook/main.ipynb`  
 Contents:
 
 1. Setting up a Reddit API wrapper and querying Reddit
@@ -13,8 +13,8 @@ Contents:
 
 To run the notebook, `cd notebook` then `pipenv install`.
 
-Chrome Extension is in `chrome_extension`.
-
-To load, go to `chrome://extensions/` in your Google Chrome browser. Enable Developer Mode in the top right.
-Click on “Load unpacked extension…” and select the `chrome_extension` directory.
-The extension should appear. Keep that tab open as when you make changes you should reload the extension there.
+To load, go to `chrome://extensions/` in your Google Chrome browser.  
+Enable Developer Mode in the top right.  
+Click on “Load unpacked extension…” and select the `chrome_extension` directory.  
+The extension should appear.  
+Keep that tab open as when you make changes you should reload the extension there.
